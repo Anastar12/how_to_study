@@ -27,6 +27,7 @@
 @import url("../blocks/content/two-columns/__main-text/two-columns__main-text.css");
 @import url("../blocks/content/two-columns/__paragraph/two-columns__paragraph.css");
 @import url("../blocks/content/two-columns/__span-accent/two-columns__span-accent.css");
+
 @import url("../blocks/content/techniques/techniques.css");
 @import url("../blocks/content/cards/cards.css");
 @import url("../blocks/content/cards/__row/cards__row.css");
